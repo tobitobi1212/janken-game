@@ -1,0 +1,2 @@
+# janken-game
+じゃんけんゲームのJavaコード
